@@ -4,10 +4,25 @@ A command-line interface for interacting with Hack Club Flavortown. This tool al
 
 ## Installation
 
+### Via NPM
+
 Install the package globally using npm:
 
 ```bash
 npm install -g @haumlab/flavortown-cli
+```
+
+### Compiled Releases
+
+You can also download standalone executables for your platform from the [GitHub Releases](https://github.com/haumlab/flavortown-cli/releases) page.
+
+*   **macOS**: `flavortown-cli-macos`
+*   **Linux**: `flavortown-cli-linux`
+*   **Windows**: `flavortown-cli-win.exe`
+
+After downloading, you may need to make the file executable:
+```bash
+chmod +x flavortown-cli-macos
 ```
 
 ## Setup
