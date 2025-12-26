@@ -9,7 +9,7 @@ A command-line interface for interacting with Hack Club Flavortown. This tool al
 Install the package globally using npm:
 
 ```bash
-npm install -g @haumlab/flavortown-cli
+npm install -g flavortown-cli
 ```
 
 ### Compiled Releases
